@@ -33,4 +33,8 @@ To add or update process docs, open an issue using the "Add Content to Project M
 
 ---
 
-*This README was added to satisfy issue #2: [README — project management processes summary and links to docs](https://github.com/manoj13194/skills-scale-institutional-knowledge-using-copilot-spaces/issues/2).*
+*This README was added to satisfy issue #2: [README — project management processes summary and links to docs](https://github.com/manoj13194/skills-scale-institutional-knowledge-using-copilot-spaces/issues/2).
+
+
+
+PR review: initial README addition
